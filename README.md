@@ -1,2 +1,2 @@
-# ddelearn
-## English learning school site
+# ddlearn
+English learning school site on Vue.js
