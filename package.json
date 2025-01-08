@@ -9,7 +9,6 @@
     },
     "keywords": [],
     "main": "main.js",
-    "license": "MIT",
     "dependencies": {
         "alpinejs": "^3.14.8",
         "sass": "^1.77.8",
